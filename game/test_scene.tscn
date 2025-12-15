@@ -1,9 +1,22 @@
-[gd_scene load_steps=2 format=3 uid="uid://ce1jmpre2oxkg"]
+[gd_scene load_steps=4 format=3 uid="uid://ce1jmpre2oxkg"]
 
-[ext_resource type="Texture2D" uid="uid://cy64oitmrt583" path="res://icon.svg" id="1_uhqqe"]
+[ext_resource type="Script" uid="uid://b4s1n6b74hrj0" path="res://rule_entity_parent.gd" id="1_uhqqe"]
+[ext_resource type="Texture2D" uid="uid://ecg3llvsdms" path="res://textures/wink.svg" id="2_ia1lp"]
+[ext_resource type="Texture2D" uid="uid://cy64oitmrt583" path="res://icon.svg" id="3_sasra"]
 
 [node name="Node2D" type="Node2D"]
+script = ExtResource("1_uhqqe")
+
+[node name="Line2D" type="Line2D" parent="."]
+position = Vector2(-5, 36)
+points = PackedVector2Array(0, 0, 30, 50)
+
+[node name="Sprite2D2" type="Sprite2D" parent="."]
+position = Vector2(801, 177)
+texture = ExtResource("3_sasra")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(414, 299)
-texture = ExtResource("1_uhqqe")
+position = Vector2(399, 173)
+texture = ExtResource("2_ia1lp")
+metadata/moving = true
+metadata/emotional = true

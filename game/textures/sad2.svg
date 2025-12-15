@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.051231mm"
+   height="42.308746mm"
+   viewBox="0 0 22.051231 42.308746"
+   version="1.1"
+   id="svg21"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs18">
+    <rect
+       x="206.8436"
+       y="317.83286"
+       width="208.52525"
+       height="216.93353"
+       id="rect984" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-113.96714,-135.03901)">
+    <g
+       aria-label=":-/"
+       transform="matrix(-0.03376432,0.92611762,-0.92611762,-0.03376432,443.21093,-50.895394)"
+       id="text982"
+       style="font-weight:bold;font-size:29.3333px;font-family:Hack;-inkscape-font-specification:'Hack, Bold';white-space:pre;shape-inside:url(#rect984);opacity:0.828658;stroke-width:14.7402">
+      <path
+         d="m 215.70963,333.01431 q -0.5586,0 -1.01693,-0.20053 -0.44401,-0.21484 -0.75911,-0.52994 -0.7448,-0.74479 -0.7448,-1.90495 0,-0.61588 0.20053,-1.08854 0.20052,-0.48698 0.52994,-0.8164 0.73047,-0.73047 1.81901,-0.73047 1.0599,0 1.79036,0.73047 0.32943,0.32942 0.52995,0.8164 0.20052,0.47266 0.20052,1.07422 0,1.20312 -0.73047,1.93359 -0.71614,0.71615 -1.819,0.71615 z m 0.0143,10.25519 q -1.0599,0 -1.79036,-0.73047 -0.7448,-0.74479 -0.7448,-1.90494 0,-1.16016 0.7448,-1.90495 0.73046,-0.73047 1.79036,-0.73047 1.07422,0 1.80468,0.73047 0.32943,0.32943 0.52995,0.81641 0.20052,0.47265 0.20052,1.08854 0,1.17448 -0.73047,1.90494 -0.73046,0.73047 -1.80468,0.73047 z"
+         id="path1054" />
+      <path
+         d="m 227.66925,333.10024 h 11.32941 v 4.16797 h -11.32941 z"
+         id="path1056" />
+      <path
+         d="m 255.04031,322.40104 h 3.16536 l -11.2578,24.10544 h -3.16536 z"
+         id="path1058" />
+    </g>
+  </g>
+</svg>
