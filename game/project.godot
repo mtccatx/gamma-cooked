@@ -10,7 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Langjam Game"
+config/name="Gamma cooked"
+run/main_scene="uid://ce1jmpre2oxkg"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="res://icon.svg"
 
